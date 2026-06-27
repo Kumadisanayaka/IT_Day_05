@@ -130,10 +130,36 @@
 
 // function
 
-function add(x,y){
-    return x + y;
+//function add(x,y){
+//    return x + y;
+//}
+//let result = add(10,20);
+//console.log(result);
+
+//-----------------------------------------------
+
+// Arrays
+
+/*let number = [10,20,30,40,50];
+
+for(let i = 0; i < number.length; i++){
+    console.log(number[i]);
+    
 }
 
-let result = add(10,20);
-console.log(result);
+let number1 = [10,"pathum","kamal",40,50];
+
+for(let i = 0; i < number1.length; i++){
+    console.log(number1[i]);
+    
+}*/
+
+let student = {
+    name: "pathum",
+    age: 10,
+    isAfterAL: true,
+}
+
+
+
 
